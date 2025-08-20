@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Lownav from "../../../components/Lownav";
 import Upnav from "../../../components/Upnav";
-import Footer from "../../../components/Footer";
+
 
 const Blog3 = () => {
   const [email, setEmail] = useState("");
@@ -427,7 +427,6 @@ const Blog3 = () => {
 
       </main>
 
-      <Footer />
     </>
   );
 };

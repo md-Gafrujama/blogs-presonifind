@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Lownav from "../../../components/Lownav";
 import Upnav from "../../../components/Upnav";
-import Footer from "../../../components/Footer";
+
 const Blog6 = () => {
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
@@ -942,7 +942,7 @@ const Blog6 = () => {
     </div>
   </div>
 </div>
-<Footer/>
+
 </div>
       
 

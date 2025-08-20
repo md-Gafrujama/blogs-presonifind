@@ -458,7 +458,7 @@ const LowNav = () => {
             },
         ],
         resourcesItems: [
-            { name: 'White Paper', href: '/whitepaper', description: 'Industry insights and research' },
+            // { name: 'White Paper', href: '/whitepaper', description: 'Industry insights and research' },
             { name: 'Blogs', href: 'https://blogs-presonifind-oy62.vercel.app/Blogs', description: 'Latest trends and updates' },
         ],
         socialMedia: [
